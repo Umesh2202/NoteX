@@ -1,0 +1,2 @@
+# NoteX
+Notepad in python
